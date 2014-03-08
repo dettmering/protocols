@@ -12,7 +12,7 @@ Materials
 * 0.3% (v/v) Triton X-100 in PBS (Triton)
 * primary Antibody (start with 1:100 dilution)
 * secondary Antibody (start with 1:300-400 dilution)
-* 0.5 µg/ml DAPI in PBS (1 ml) per sample. You may also add labeled Phalloidin to get a cytoplasmatic staining. *Caution: Phalloidin and possibly DAPI are highly cancerogenic!*
+* 0.5 Âµg/ml DAPI in PBS (1 ml) per sample. You may also add labeled Phalloidin to get a cytoplasmatic staining. *Caution: Phalloidin and possibly DAPI are highly cancerogenic!*
 * Mounting medium of your choice, clear nail varnish for sealing
 
 Preparation
@@ -30,9 +30,9 @@ Protocol
 5. Permeabilize cells with Triton for 8 min @ RT
 6. Wash with PBS
 7. Block with BSA for 30 min @ RT
-8. Dilute primary Ab in BSA. 100 µl of solution per cover slip are usually enough.
-9. Add 95 µl (to account for pipetting error) on top of each cover slip. Make sure that the cover slip does not touch the border of the petri dish. The drop will stay on the cover slip.
-10. Incubate 1 h @ RT or over night @ 4°C if the staining is too weak
+8. Dilute primary Ab in BSA. 100 Âµl of solution per cover slip are usually enough.
+9. Add 95 Âµl (to account for pipetting error) on top of each cover slip. Make sure that the cover slip does not touch the border of the petri dish. The drop will stay on the cover slip.
+10. Incubate 1 h @ RT or over night @ 4Â°C if the staining is too weak
 11. Wash 3 x 5 min with PBS on shaker
 12. Dilute secondary Ab in BSA. Perform subsequent steps in the dark.
 13. Incubate secondary Ab 45 min @ RT
