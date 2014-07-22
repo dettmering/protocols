@@ -24,7 +24,7 @@ Protocol
 4. Separate cells properly with 1 ml Eppendorf pipet, don't take too much time for this step. Pool now two or more dishes together.
 5. Add 3 ml medium to stop Trypsin.
 6. Washing cells: centrifuge 8 min @ 300g, discard supernatant, resuspend with 95 µl pipet.
-7. Add 1 ml 2% Paraformaldehyde Incubate 8 min at room temperature
+7. Add 1 ml 2% Paraformaldehyde, incubate 15 min at room temperature
 8. Add 2 ml PBS, centrifuge 8 min @ 300g, if stored: resuspend in 1 ml PBS
 
 At this point samples may be stored for up to 7 days in at 4°C.
