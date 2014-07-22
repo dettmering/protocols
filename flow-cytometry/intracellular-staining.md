@@ -25,14 +25,15 @@ Protocol
 5. Add 3 ml medium to stop Trypsin.
 6. Washing cells: centrifuge 8 min @ 300g, discard supernatant, resuspend with 95 µl pipet.
 7. Add 1 ml 2% Paraformaldehyde Incubate 8 min at room temperature
-8. Add 2 ml PBS and centrifuge 8 min @ 300g
-9. Discard supernatant, resuspend cells with 95 µl pipet
+8. Add 2 ml PBS, centrifuge 8 min @ 300g, if stored: resuspend in 1 ml PBS
+
+At this point samples may be stored for up to 7 days in at 4°C.
+
+9.  If stored, centrifuge 8 min @ 300g. Discard supernatant, resuspend cells with 95 µl pipet
 10. Add 1 ml 0.5 % Triton X-100, incubate 5 min (critical!) at room temperature.
 11. Add 2 ml PBS and centrifuge 8 min (critical!) @ 300g
 12. Discard supernatant, resuspend with 95 µl pipet.
 13. Add 1 ml 0.4 % BSA, incubate at least 30 min @ RT
-
-At this point samples may be stored for up to 7 days in at 4°C.
 
 ### Primary Antibody Staining
 
