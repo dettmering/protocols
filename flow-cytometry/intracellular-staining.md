@@ -6,8 +6,8 @@ Materials
 
 * Phosphate buffered saline, no Ca2+, no Mg2+ (PBS)
 * 4% Paraformaldehyde in PBS (PFA)
-* 0.2% (w/v) bovine serum albumin in PBS (BSA)
-* 0.3% (v/v) Triton X-100 in PBS (Triton)
+* 0.4% (w/v) bovine serum albumin in PBS (BSA)
+* 0.5% (v/v) Triton X-100 in PBS (Triton)
 * primary Antibody (start with 1:100 dilution)
 * secondary Antibody (start with 1:300-400 dilution)
 * 0.5 µg/ml DAPI in PBS (1 ml) per sample.
